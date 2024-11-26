@@ -108,7 +108,7 @@ Visualizations and KPIs illustrating portfolio performance.
 - Deploy the application on a cloud platform for public accessibility.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [**Alpha Vantage API**](https://www.alphavantage.co/) for providing financial data.
